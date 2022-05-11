@@ -1,4 +1,4 @@
 ## the path for which the header must be set:
-index.html
+/index.html
 ## the actual header:
-Content-Security-Policy: sandbox allow-forms;
+Content-Security-Policy: default-src'self';
